@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://principaled.dev/"
-title: "a principled principal architect @ principal[ed].dev"
+title: "a principled(?) principal architect @ principal[ed].dev"
 copyright: "Views expressed are solely my own and do not express the views or opinions of my employer."
 theme: [PaperMod]
 
@@ -53,8 +53,8 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "a principled principal architect's blog @ principal[ed].dev"
-  author: a principled principal architect @ principal[ed].dev
+  description: "a principled(?) principal architect's blog @ principal[ed].dev"
+  author: a principled(?) principal architect @ principal[ed].dev
   # author: ["Me", "You"] # multiple authors
   hideFooter: true
   defaultTheme: auto
@@ -78,7 +78,7 @@ params:
 
 
   homeInfoParams:
-    Title: "a principled principal architect."
+    Title: "a principled(?) principal architect."
     Content: >
       hello. I’m a principal platform architect at a subsidiary within a large technology company, writing about architecture lessons, software design, systems thinking, and principled engineering—the trade-offs that matter at scale. 
       I’ll also write about the work itself: the role, the career, the tensions and decisions that come with it, and honestly... whatever else happens to be top of mind.
