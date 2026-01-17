@@ -10,8 +10,8 @@ series: ["The Path Less Principled"]
 
 > Two roads diverged in a wood, and I—  
 > I took the one less traveled by,  
-> And that has made all the difference. 
-> — <cite>Robert Frost[^1]</cite>
+> And that has made all the difference.  
+> — <cite>Robert Frost [^1]</cite>
 
 [^1]: The above quote is excerpted from the poem: *The Road Not Taken* (https://www.poetryfoundation.org/poems/44272/the-road-not-taken)
 
