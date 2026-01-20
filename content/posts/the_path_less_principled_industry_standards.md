@@ -88,5 +88,3 @@ Standards, broadly defined, help narrow the spectrum of choices. They point to w
 Invoking "it's industry standard" without evidence—without explaining *what* standard, *who* follows it, and *why* it applies to your situation—is a bad faith argument that shuts down discussion rather than advancing it. It borrows legitimacy without earning it. That's the path less principled.
 
 The principled path is to treat "industry standard" as the beginning of evaluation, not the end. Ask the hard questions. Weigh the hidden costs. Understand your context. And if someone uses the phrase to avoid that work, _call it out_ (and maybe share this post with them).
-
-But even with a working definition, there's still the challenge of getting everyone to use the phrase the same way. And even then, evaluation isn't straightforward. In [Part 2](/posts/the_path_less_principled_industry_standards_part_2), we'll examine why "industry standard" is an inherently fuzzy concept—and why not all standards are equal.
