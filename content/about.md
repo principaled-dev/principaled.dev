@@ -10,7 +10,7 @@ showBreadCrumbs: false
 # Introduction
 I’m a *Principal* Architect by trade, and _try_ to be a *principled* one by instinct.
 
-That’s where the name of this site comes from: principaled.dev - a word play on principal and principle.
+That's where the name of this site comes from: principaled.dev - a wordplay on principal and principled (and it so happens to end with "ed" for education, fitting for a blog that hopes to share lessons learned).
 
 *Fun fact*: early in my career, I thought the level associated to an engineering role was called “Principled Engineer.” I’d only ever heard coworkers say it, never seen it written out. I assumed a principal engineer had to be principled to reach that level. The spelling lesson stuck, but the idea stuck even more.
 
