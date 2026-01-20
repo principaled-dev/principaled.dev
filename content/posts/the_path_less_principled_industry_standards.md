@@ -22,15 +22,13 @@ But here's the problem: when "industry standard" becomes a substitute for princi
 
 # What "Industry Standard" Actually Means Nowadays
 
-In the strict sense, a standard is something governed by a formal body. Think IETF RFCs for network protocols, ISO specifications, or W3C recommendations for web technologies. These have defined processes, versioning, compliance criteria, and exist specifically to solve interoperability problems between systems that need to communicate.
+In the strict sense, a standard is a de jure construct: something governed by a formal body. Think IETF RFCs for network protocols, ISO specifications, or W3C recommendations for web technologies. These have defined processes, versioning, compliance criteria, and exist specifically to solve interoperability problems between systems that need to communicate.
 
-Then there's the looser usage: de facto standards. These emerge through widespread adoption rather than formal governance or interoperability requirements. Git for version control. JSON for APIs. YAML for configuration. No organization certifies compliance. No specification defines what qualifies. They became "standard" because enough people adopted them, though what counts as "enough" is conveniently never defined.
+Then there's the looser usage: de facto standards. These exist in practice rather than by decree, emerging through widespread adoption rather than formal governance. Git for version control. JSON for APIs. YAML for configuration. No organization certifies compliance. No specification defines what qualifies. They became "standard" because enough people adopted them, though what counts as "enough" is conveniently never defined.
 
-And then there's a usage even looser than de facto: claiming something is "industry standard" simply because that's what the documentation or user guide recommends. Following the docs becomes conflated with following a standard, as if a vendor's opinionated setup guide carries the same weight as an RFC.
+People use the term "industry standard" loosely, where both variants can be meant. So let me attempt a working definition for this three-part series that encompasses both. "Industry standard," as used nowadays, amounts to: *a set of technical criteria, methods, processes, and practices that are formally agreed upon and/or otherwise well accepted and adopted by the tech community.*
 
-Given how loosely the term gets thrown around, let me attempt a working definition for this three-part series. Averaging out those three varieties, "industry standard," as used nowadays, amounts to: *a set of technical criteria, methods, processes, and practices that are formally agreed upon and/or otherwise well accepted and adopted by the tech community.*
-
-Even with this broad definition, things get tricky fast. Consider the spectrum:
+But even with this working definition, things are still tricky. Consider the spectrum:
 
 - **Network protocols** (Ethernet, IP, TCP) — clearly formal standards
 - **Application protocols** (DNS, HTTP) — formal standards
@@ -39,11 +37,11 @@ Even with this broad definition, things get tricky fast. Consider the spectrum:
 - **Programming languages** (Python, Go, Rust) — popular choices, not "standards"
 - **Specific tools** (Kubernetes, Terraform, ArgoCD) — just... popular?
 
-As you move up this stack, the term "industry standard" gets fuzzier. Calling TCP an industry standard is uncontroversial: there's a spec, a governing body, and universal adoption. Calling Kubernetes an industry standard? That's already murky. And what about the layer on top, like ArgoCD vs. Flux vs. kube-applier for GitOps? Now we're just picking favourites. The term starts doing rhetorical work that it hasn't earned.
+As you move up this stack, the term "industry standard" gets fuzzier. Calling TCP an industry standard is uncontroversial: there's a spec, a governing body, and universal adoption. Calling Kubernetes an industry standard? That's murky—is it *the* standard or *a* standard? For whom? At what scale? And what about the layer on top, like ArgoCD vs. Flux vs. kube-applier for GitOps? Now we're just picking favourites. The term starts doing rhetorical work that it hasn't earned.
 
-The conflation is the problem. Calling something an "industry standard" borrows legitimacy from formal standards while often meaning "widely adopted." Real standards solve interoperability. "Standards" in the loose sense often just mean "popular." And popular is not the same as appropriate.
+The conflation is the problem. Calling something an "industry standard" borrows legitimacy from de jure standards while often meaning de facto, meaning just "widely adopted." Real standards solve interoperability and decrease fragmentation. "Standards" in the loose sense often just mean "popular." And popular is not the same as appropriate.
 
-With all of this ambiguity—formal standards, de facto standards, "the docs said so" standards, and what often amounts to a popularity contest—it's worth asking: if the term is held this loosely, should we even be using it at all? Or perhaps we should return to using it strictly, as it was originally meant: governed by specification and upheld by a standards body.
+With all of this ambiguity (de jure and de facto conflated, and what often amounts to a popularity contest), it's worth asking: if the term is held this loosely, should we even be using it at all? Or perhaps we should return to using it strictly, as it was originally meant: governed by specification and upheld by a standards body.
 
 # The Pitfalls of Blind Adoption
 
@@ -67,7 +65,7 @@ This shows up constantly in tech stack decisions. Teams choose languages, framew
 
 You'll also hear that skills are transferable: easier onboarding, and individuals can leverage that expertise elsewhere. There's a defensive element too: nobody gets blamed for picking the obvious choice. But deviate from the herd and fail? Now you have to explain yourself.
 
-None of those are technical arguments. They're arguments about human capital, career portability, and organizational risk—and they're not necessarily wrong. But they should be weighed as what they are: business and people considerations, not evidence of technical fit. Presenting them as technical justification is arguing in bad faith.
+None of those are technical arguments. They're arguments about human capital, career portability, and organizational risk. And they're not necessarily wrong. But they should be weighed as what they are: business and people considerations, not evidence of technical fit. Presenting them as technical justification is arguing in bad faith.
 
 ## Hidden Costs Ignored
 
@@ -79,11 +77,11 @@ Or you work around the limitations instead of through them, building clunky arch
 
 Beyond customization, the "standard" path often has invisible prerequisites: team size, operational expertise, organizational maturity, supporting infrastructure. Does it fit your existing architecture? Is there already an internal offering that solves the same problem? What's the adoption cost across teams? And critically: is your organization actually committed to this direction, or is this a half-hearted adoption that will be abandoned in two years?
 
-Adopting without answering these questions doesn't give you the benefits—it gives you the complexity without the payoff. You end up with the worst of both worlds: the learning curve and operational burden of the "standard" tool, plus the ongoing cost of making it do something it wasn't designed for.
+Adopting without answering these questions doesn't give you the benefits. It gives you the complexity without the payoff. You end up with the worst of both worlds: the learning curve and operational burden of the "standard" tool, plus the ongoing cost of making it do something it wasn't designed for.
 
 # Conclusion
 
-So should we stop using the term "industry standard" altogether? Not necessarily. Rather than fight the loose definition, we can accept that the concept is still useful: as a frame of reference, not as a decision-maker. That's why I attempted a working definition in the first place.
+So should we stop using the term "industry standard" altogether? Not necessarily. Rather than fight the loose definition most people carry around, we can accept that the concept is still useful: as a frame of reference, not as a decision-maker. That's why I attempted a working definition in the first place.
 
 Standards, broadly defined, help narrow the spectrum of choices. They point to what's been tried, what's gained traction, what has community support. That's valuable signal. The problem isn't the term itself. It's using it as a conversation-stopper rather than a conversation-starter.
 
@@ -91,4 +89,4 @@ Invoking "it's industry standard" without evidence—without explaining *what* s
 
 The principled path is to treat "industry standard" as the beginning of evaluation, not the end. Ask the hard questions. Weigh the hidden costs. Understand your context. And if someone uses the phrase to avoid that work, _call it out_ (and maybe share this post with them).
 
-But even with a working definition, there's still the challenge of getting everyone to use the phrase the same way—and even then, evaluation isn't straightforward. In [Part 2](/posts/the_path_less_principled_industry_standards_part_2), we'll examine why "industry standard" is an inherently fuzzy concept—and why not all standards are equal.
+But even with a working definition, there's still the challenge of getting everyone to use the phrase the same way. And even then, evaluation isn't straightforward. In [Part 2](/posts/the_path_less_principled_industry_standards_part_2), we'll examine why "industry standard" is an inherently fuzzy concept—and why not all standards are equal.
