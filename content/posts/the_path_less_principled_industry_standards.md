@@ -37,7 +37,7 @@ But even with this working definition, things are still tricky. Consider the spe
 - **Programming languages** (Python, Go, Rust) — popular choices, not "standards"
 - **Specific tools** (Kubernetes, Terraform, ArgoCD) — just... popular?
 
-As you move up this stack, the term "industry standard" gets fuzzier. Calling TCP an industry standard is uncontroversial: there's a spec, a governing body, and universal adoption. Calling Kubernetes an industry standard? That's murky—is it *the* standard or *a* standard? For whom? At what scale? And what about the layer on top, like ArgoCD vs. Flux vs. kube-applier for GitOps? Now we're just picking favourites. The term starts doing rhetorical work that it hasn't earned.
+As you move up this stack, the term "industry standard" gets fuzzier. Calling TCP an industry standard is uncontroversial: there's a spec, a governing body, and universal adoption. Calling Kubernetes "industry standard"? That's murky—is it *the* standard or *a* standard? For whom? At what scale? And what about the layer on top, like ArgoCD vs. Flux vs. kube-applier for GitOps? Now we're just picking favourites. The term starts doing rhetorical work that it hasn't earned.
 
 The conflation is the problem. Calling something an "industry standard" borrows legitimacy from de jure standards while often meaning de facto, meaning just "widely adopted." Real standards solve interoperability and decrease fragmentation. "Standards" in the loose sense often just mean "popular." And popular is not the same as appropriate.
 
@@ -45,7 +45,7 @@ With all of this ambiguity (de jure and de facto conflated, and what often amoun
 
 # The Pitfalls of Blind Adoption
 
-When "industry standard" substitutes for principled technical evaluation, predictable problems follow.
+When we fall into this conflation trap, treating "popular" as synonymous with "standard," we stop evaluating and start deferring on judgement. We lean on legitimacy that hasn't been earned, and predictable problems follow.
 
 ## Context Collapse
 
@@ -85,6 +85,6 @@ So should we stop using the term "industry standard" altogether? Not necessarily
 
 Standards, broadly defined, help narrow the spectrum of choices. They point to what's been tried, what's gained traction, what has community support. That's valuable signal. The problem isn't the term itself. It's using it as a conversation-stopper rather than a conversation-starter.
 
-Invoking "it's industry standard" without evidence—without explaining *what* standard, *who* follows it, and *why* it applies to your situation—is a bad faith argument that shuts down discussion rather than advancing it. It borrows legitimacy without earning it. That's the path less principled.
+Invoking "it's industry standard" without evidence—without explaining *what* standard, *who* follows it, and *why* it applies to your situation—is a bad faith argument that shuts down discussion rather than advancing it. It borrows legitimacy without earning it. It exposes us to the pitfalls of blind adoption. That's the path less principled.
 
 The principled path is to treat "industry standard" as the beginning of evaluation, not the end. Ask the hard questions. Weigh the hidden costs. Understand your context. And if someone uses the phrase to avoid that work, _call it out_ (and maybe share this post with them).
