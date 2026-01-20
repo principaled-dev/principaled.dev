@@ -26,9 +26,9 @@ In the strict sense, a standard is something governed by a formal body. Think IE
 
 Then there's the looser usage: de facto standards. These emerge through widespread adoption rather than formal governance or interoperability requirements. Git for version control. JSON for APIs. YAML for configuration. No organization certifies compliance. No specification defines what qualifies. They became "standard" because enough people adopted them, though what counts as "enough" is conveniently never defined.
 
-And then there's an even looser usage I've encountered: claiming something is "industry standard" simply because that's what the documentation or user guide recommends. Following the docs becomes conflated with following a standard, as if a vendor's opinionated setup guide carries the same weight as an RFC.
+And then there's a usage even looser than de facto: claiming something is "industry standard" simply because that's what the documentation or user guide recommends. Following the docs becomes conflated with following a standard, as if a vendor's opinionated setup guide carries the same weight as an RFC.
 
-Given how loosely the term gets thrown around, let me attempt a working definition for this three-part series. "Industry standard," as used nowadays, roughly means: *a set of technical criteria, methods, processes, and practices that are formally agreed upon and/or otherwise well accepted and adopted by the tech community.*
+Given how loosely the term gets thrown around, let me attempt a working definition for this three-part series. Averaging out those three varieties, "industry standard," as used nowadays, amounts to: *a set of technical criteria, methods, processes, and practices that are formally agreed upon and/or otherwise well accepted and adopted by the tech community.*
 
 Even with this broad definition, things get tricky fast. Consider the spectrum:
 
@@ -87,8 +87,8 @@ So should we stop using the term "industry standard" altogether? Not necessarily
 
 Standards, broadly defined, help narrow the spectrum of choices. They point to what's been tried, what's gained traction, what has community support. That's valuable signal. The problem isn't the term itself. It's using it as a conversation-stopper rather than a conversation-starter.
 
-Invoking "it's industry standard" without evidence—without explaining *what* standard, *who* follows it, and *why* it applies to your situation—is a bad faith argument that shuts down discussion rather than advancing it. It borrows legitimacy without earning it.
+Invoking "it's industry standard" without evidence—without explaining *what* standard, *who* follows it, and *why* it applies to your situation—is a bad faith argument that shuts down discussion rather than advancing it. It borrows legitimacy without earning it. That's the path less principled.
 
-The principled path is to treat "industry standard" as the beginning of evaluation, not the end. Ask the hard questions. Weigh the hidden costs. Understand your context. And if someone uses the phrase to avoid that work, _call it out_.
+The principled path is to treat "industry standard" as the beginning of evaluation, not the end. Ask the hard questions. Weigh the hidden costs. Understand your context. And if someone uses the phrase to avoid that work, _call it out_ (and maybe share this post with them).
 
 But even with a working definition, there's still the challenge of getting everyone to use the phrase the same way—and even then, evaluation isn't straightforward. In [Part 2](/posts/the_path_less_principled_industry_standards_part_2), we'll examine why "industry standard" is an inherently fuzzy concept—and why not all standards are equal.
