@@ -20,7 +20,7 @@ Now the practical part. How do we actually evaluate? And let's clear up a miscon
 
 "Why aren't we following industry standards?"
 
-I've heard this alarm raised whenever in-house software development is proposed or when an existing homegrown project is revisited. The concern is understandable: in-house development carries costs around maintenance, sustainability, and opportunity cost. If something off-the-shelf exists, shouldn't we use it?
+I've heard this alarm raised frequently whenever in-house software development is proposed or when an existing homegrown project is revisited. The concern is understandable: in-house development carries costs around maintenance, sustainability, and opportunity cost. If something off-the-shelf exists, shouldn't we use it?
 
 But here's the thing: **in-house software development is not mutually exclusive with industry standards.**
 
