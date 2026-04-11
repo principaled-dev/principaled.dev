@@ -1,6 +1,6 @@
 ---
 title: 'The Path Less Principled: From Hype to Principled Evaluation'
-date: "2026-01-19"
+date: "2026-03-11"
 description: 'A framework for evaluating "industry standards" and why building in-house isn''t the opposite of following standards.'
 summary: "Part 3 of the industry standards series: how to actually evaluate technologies, and addressing the false dichotomy between in-house development and industry standards."
 tags: ["industry standards", "the-path-less-principled", "pitfalls", "engineering practices", "trade-offs"]
