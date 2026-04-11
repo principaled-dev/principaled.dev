@@ -110,10 +110,10 @@ The phrase tells you something has achieved widespread adoption. It tells you no
 
 Throughout this series, we've built up a principled approach:
 
-- **Define the term clearly.** Is it de jure or de facto? THE standard or A standard? ([Part 1](/posts/the_path_less_principled_industry_standards))
-- **Understand the traps.** Framing, timing, and context all shape how a "standard" is perceived and misperceived. ([Part 2](/posts/the_path_less_principled_industry_standards_part_2))
+- **Define the term clearly.** Understand what "industry standard" actually means, and recognize the pitfalls of blind adoption. ([Part 1](/posts/the_path_less_principled_industry_standards))
+- **Understand the traps.** Is it de jure or de facto? THE standard or A standard? Framing, timing, and context all shape how a "standard" is perceived and misperceived. ([Part 2](/posts/the_path_less_principled_industry_standards_part_2))
 - **Evaluate for fit, not popularity.** Start from the problem. Weigh hidden costs and prerequisites. Consider trajectory. Design for change.
 
-The path less principled adopts standards blindly, treats popularity as proof of fit, and avoids the work of evaluation.
+The path less principled adopts standards blindly, treats popularity as proof of fit, and avoids the work of evaluation. The next time someone tries to end a discussion with "it's industry standard," don't let it. And don't let them. Use what we've covered in this series not to confront them, but to guide them toward the principled approach. And if you find it useful, share this series.
 
 The principled path understands *why* something became a standard, and more important, whether those reasons apply to you.
