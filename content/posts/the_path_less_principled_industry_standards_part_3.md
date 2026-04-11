@@ -66,7 +66,7 @@ Compare this honestly against the in-house option; which, as we covered above, c
 
 Sometimes conforming to a popular choice has real benefits: a larger hiring pool, richer ecosystem tooling, more community support, easier onboarding for new team members.
 
-Weigh this honestly. These are legitimate business and people considerations. The goal isn't to be contrarian for its own sake—it's to make deliberate choices rather than default ones.
+Weigh this honestly. These are legitimate business and people considerations. The goal isn't to be contrarian for its own sake: it's to make deliberate choices rather than default ones.
 
 ## 5. What does the trajectory look like?
 
@@ -111,7 +111,7 @@ The phrase tells you something has achieved widespread adoption. It tells you no
 Throughout this series, we've built up a principled approach:
 
 - **Define the term clearly.** Is it de jure or de facto? THE standard or A standard? ([Part 1](/posts/the_path_less_principled_industry_standards))
-- **Understand the traps.** Framing, timing, and context all shape how a "standard" is perceived—and misperceived. ([Part 2](/posts/the_path_less_principled_industry_standards_part_2))
+- **Understand the traps.** Framing, timing, and context all shape how a "standard" is perceived and misperceived. ([Part 2](/posts/the_path_less_principled_industry_standards_part_2))
 - **Evaluate for fit, not popularity.** Start from the problem. Weigh hidden costs and prerequisites. Consider trajectory. Design for change.
 
 The path less principled adopts standards blindly, treats popularity as proof of fit, and avoids the work of evaluation.
