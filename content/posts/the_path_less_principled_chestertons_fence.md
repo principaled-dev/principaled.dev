@@ -22,7 +22,12 @@ There's a principle for this. It's called Chesterton's Fence.
 
 # What Is Chesterton's Fence?
 
-G.K. Chesterton put it simply: if you come across a fence in the middle of a road and don't know why it's there, don't remove it until you find out. Someone put it there for a reason. You might disagree with the reason. You might find it outdated. But you need to know the reason before you can make that call.
+> There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road. The more modern type of reformer goes gaily up to it and says, “I don’t see the use of this; let us clear it away.” To which the more intelligent type of reformer will do well to answer: “If you don’t see the use of it, I certainly won’t let you clear it away. Go away and think. Then, when you can come back and tell me that you do see the use of it, I may allow you to destroy it.”
+> — <cite>G.K. Chesterton [^1]</cite>
+
+[^1]: https://fs.blog/chestertons-fence/
+
+Put simply: if you come across a fence in the middle of a road and don't know why it's there, don't remove it until you find out. Someone put it there for a reason. You might disagree with the reason. You might find it outdated. But you need to know the reason before you can make that call.
 
 In engineering and leadership terms: existing decisions, systems, and processes weren't made in a vacuum. They were responses to constraints, trade-offs, incidents, and realities that may not be immediately visible to someone arriving fresh. That architecture you think is overcomplicated? It might exist because a simpler version caused a production outage, or because the team got burnt by a similar approach elsewhere in the architecture. That awkward ownership boundary between teams? It might be the result of a painful negotiation that finally made collaboration possible.
 
