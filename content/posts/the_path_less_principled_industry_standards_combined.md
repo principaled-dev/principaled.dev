@@ -1,11 +1,11 @@
 ---
-title: 'The Path Less Principled: A Principled Guide to "Industry Standards"'
+title: '(Condensed) The Path Less Principled: A Principled Guide to "Industry Standards"'
 date: "2026-04-11"
 description: 'The phrase "industry standard" is often used to end conversations rather than start them. Here''s how to evaluate standards on their merit, not their popularity.'
 summary: "A concise guide to evaluating industry standards: what the term actually means, the traps it sets, and a practical framework for principled adoption."
-tags: ["industry standards", "the-path-less-principled", "pitfalls", "engineering practices", "trade-offs"]
-categories: ["pitfalls", "engineering practices"]
-series: ["The Path Less Principled"]
+tags: ["industry standards", "the-path-less-principled", "pitfalls", "engineering practices", "trade-offs", "condensed"]
+categories: ["series", "pitfalls", "engineering practices", "condensed"]
+series: ["The Path Less Principled", "Industry Standards"]
 ShowToc: true
 TocOpen: true
 ---

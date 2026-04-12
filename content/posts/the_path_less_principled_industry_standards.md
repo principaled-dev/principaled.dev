@@ -5,7 +5,7 @@ description: 'The phrase "industry standard" is often used to end conversations 
 summary: "Part 1 of a series examining industry standards: what they actually are, why they matter, and the pitfalls of blind adoption."
 tags: ["industry standards", "the-path-less-principled", "pitfalls", "engineering practices", "trade-offs"]
 categories: ["series", "pitfalls", "engineering practices"]
-series: ["The Path Less Principled"]
+series: ["The Path Less Principled", "Industry Standards"]
 ShowToc: true
 TocOpen: true
 ---

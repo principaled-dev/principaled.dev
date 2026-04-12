@@ -5,7 +5,7 @@ description: 'A framework for evaluating "industry standards" and why building i
 summary: "Part 3 of the industry standards series: how to actually evaluate technologies, and addressing the false dichotomy between in-house development and industry standards."
 tags: ["industry standards", "the-path-less-principled", "pitfalls", "engineering practices", "trade-offs"]
 categories: ["series", "pitfalls", "engineering practices"]
-series: ["The Path Less Principled"]
+series: ["The Path Less Principled", "Industry Standards"]
 ShowToc: true
 TocOpen: true
 ---

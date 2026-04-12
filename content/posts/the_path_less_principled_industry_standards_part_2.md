@@ -5,7 +5,7 @@ description: 'Before you can evaluate an "industry standard," you need to unders
 summary: "Part 2 of the industry standards series: why not all standards are equal, how framing and timing shape perception, and the traps that make evaluation harder than it appears."
 tags: ["industry standards", "the-path-less-principled", "pitfalls", "engineering practices", "trade-offs"]
 categories: ["series", "pitfalls", "engineering practices"]
-series: ["The Path Less Principled"]
+series: ["The Path Less Principled", "Industry Standards"]
 ShowToc: true
 TocOpen: true
 ---
