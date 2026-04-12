@@ -105,4 +105,6 @@ Chesterton's Fence is, at its core, a first-principles argument. You can't reaso
 
 The path less principled tears down fences without understanding why they exist, treats existing work and the people behind it as obstacles to be cleared, enforces change through authority rather than understanding, and mistakes disruption for progress.
 
-The principled path leads with curiosity, respects the context and the people that came before, and earns the legitimate mandate to change things — not from above, but from the team.
+The principled path leads with curiosity, respects the context and the people that came before, and earns the legitimate mandate to change things. Not the one handed down from above, but the one earned from the team.
+
+If you're stepping into new leadership, let this be the lens you lead through. And if you're a peer watching it unfold, you might be the only one with the standing to say something. Speak up.
