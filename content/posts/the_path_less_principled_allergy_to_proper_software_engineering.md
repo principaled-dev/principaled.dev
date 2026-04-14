@@ -8,7 +8,7 @@ categories: ["series", "engineering practices"]
 series: ["The Path Less Principled"]
 ShowToc: true
 TocOpen: true
-draft: true
+draft: false
 ---
 
 # Introduction
