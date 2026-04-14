@@ -93,9 +93,9 @@ Taking open-source projects off the shelf, configuring them, and running them in
 
 Business value lives in what you build *on top*. The custom capabilities. The domain-specific logic. The workflows, abstractions, and services that exist because your problem space demands them. That's the layer where engineering judgement, creativity, and deep understanding of your users actually matters.
 
-Consider a concrete shape this takes. Most organizations have at least one problem that sits at the intersection of technical complexity and organisational complexity, where the challenge isn't just "how do we run this software" but "how do we coordinate many teams contributing to a shared system without everything drifting apart." No off-the-shelf tool solves that, because the problem is as much about your organisation's structure as it is about the technology. The principled response is to build a thin custom layer, one that uses commodity tooling under the hood but provides a formal interface on top that turns coordination chaos into something manageable. That abstraction is custom because it has to be. The off-the-shelf alternative is a spreadsheet and a prayer.
+Consider a concrete shape this takes. Most organizations have at least one problem that sits at the intersection of technical complexity and organizational complexity, where the challenge isn't just "how do we run this software" but "how do we coordinate many teams contributing to a shared system without everything drifting apart." No off-the-shelf tool solves that, because the problem is as much about your organization's structure as it is about the technology. The principled response is to build a thin custom layer, one that uses commodity tooling under the hood but provides a formal interface on top that turns coordination chaos into something manageable. That abstraction is custom because it has to be. The off-the-shelf alternative is a spreadsheet and a prayer.
 
-Problems like these are everywhere. And every time the allergic reaction kills the custom solution, the organization is left with the commodity layer and nothing on top of it. An organization that's allergic to custom work is an organization that has optimised for running other people's software and has forgotten to ship its own. It's an engineering department that can stand up infrastructure but can't build capability. That's not engineering. That's operations wearing an engineering title.
+Problems like these are everywhere. And every time the allergic reaction kills the custom solution, the organization is left with the commodity layer and nothing on top of it. An organization that's allergic to custom work is an organization that has optimized for running other people's software and has forgotten to ship its own. It's an engineering department that can stand up infrastructure but can't build capability. That's not engineering. That's operations wearing an engineering title.
 
 This isn't an argument against adopting off-the-shelf solutions. The entire point of commoditized tooling is that you *should* adopt it for the problems it solves well, so that you can focus your custom engineering effort where it actually matters. Build vs. buy isn't a philosophical stance. It's a per-problem evaluation. And the answer should be "buy" for commodity concerns and "build" for differentiating ones.
 
@@ -122,15 +122,15 @@ Well-designed abstractions are an act of engineering. They require understanding
 The principled engineer doesn't have a reflexive answer to "build or buy." They have a framework:
 
 - **Is this a commodity concern?** If the problem is well-solved by existing tooling and isn't a source of competitive advantage, adopt. Don't reinvent the wheel for solved problems.
-- **Is this a differentiating capability?** If the problem is specific to your domain, your users, or your organisational context, and the off-the-shelf option doesn't fit or doesn't exist, build. That's what engineers are for.
+- **Is this a differentiating capability?** If the problem is specific to your domain, your users, or your organizational context, and the off-the-shelf option doesn't fit or doesn't exist, build. That's what engineers are for.
 - **Does this need a formal abstraction?** If multiple actors interact with the system and have different concerns, build an abstraction that separates those concerns cleanly. An informal interface isn't a substitute for a formal one just because it's more familiar.
 - **Can I evaluate what's in front of me?** If someone's built something custom and you can't assess it, that's a signal to learn, not to reject. Bring in people who can evaluate it. Ask questions. Do the homework. Don't substitute familiarity for judgement.
 
-The principled path values both adoption and construction. It recognizes that the goal isn't to minimise custom code. It's to put engineering effort where it delivers the most value. Sometimes that's integrating an off-the-shelf tool. Sometimes that's writing something from scratch. The answer depends on the problem, not on the evaluator's comfort zone.
+The principled path values both adoption and construction. It recognizes that the goal isn't to minimize custom code. It's to put engineering effort where it delivers the most value. Sometimes that's integrating an off-the-shelf tool. Sometimes that's writing something from scratch. The answer depends on the problem, not on the evaluator's comfort zone.
 
 # Counteracting the Hostility
 
-Recognizing hostile engineering is one thing. Surviving it is another. If you're on the receiving end, here are some approaches that can help.
+Recognizing hostile engineering is one thing. Surviving it is another. I won't pretend the cards aren't stacked against you. Over the years, across different teams and different organizations, I've watched this play out repeatedly, and it never gets easier. The framing is rigged, and the person doing the right thing is always the one who looks unreasonable. But there are approaches that can help.
 
 ## Make the Decision Legible
 
@@ -146,7 +146,7 @@ Hostile engineering thrives in meetings. The ambiguity of verbal conversation, t
 
 ## Escalate on Pattern, Not on Incident
 
-A single objection isn't hostile engineering. A pattern is. If you escalate after one disagreement, you look defensive. If you escalate after the fifth time the same person has relitigated the same decision in the same way, you have a case. Keep notes. Track the pattern. When you do escalate, whether to your skip-level, a peer leader, or whoever has the organisational standing to intervene, present the pattern, not the emotion. "This decision has been revisited four times, each time without new information" is a statement that's hard to argue with.
+A single objection isn't hostile engineering. A pattern is. If you escalate after one disagreement, you look defensive. If you escalate after the fifth time the same person has relitigated the same decision in the same way, you have a case. Keep notes. Track the pattern. When you do escalate, whether to your skip-level, a peer leader, or whoever has the organizational standing to intervene, present the pattern, not the emotion. "This decision has been revisited four times, each time without new information" is a statement that's hard to argue with.
 
 ## Build Alliances with the Actual Users
 
@@ -154,7 +154,7 @@ The people using your system are your strongest advocates, but only if they know
 
 ## Know When to Escalate Beyond Engineering
 
-Sometimes the hostile party has enough organizational power that no amount of documentation or stakeholder clarity will matter. The decision will be overridden regardless of merit. At that point, the question is no longer technical. It's organisational. If the pattern is persistent and damaging, it needs to be visible to someone with the authority and willingness to address it. That might be a Lead Architect. That might be a VP. It might be a CTO. It might be an HR conversation if the behaviour crosses into bullying. Not every technical fight can be won with technical arguments. Some require organizational intervention.
+Sometimes the hostile party has enough organizational power that no amount of documentation or stakeholder clarity will matter. The decision will be overridden regardless of merit. At that point, the question is no longer technical. It's organizational. If the pattern is persistent and damaging, it needs to be visible to someone with the authority and willingness to address it. That might be a Lead Architect. That might be a VP. It might be a CTO. It might be an HR conversation if the behaviour crosses into bullying. Not every technical fight can be won with technical arguments. Some require organizational intervention.
 
 ## Protect Your People
 
