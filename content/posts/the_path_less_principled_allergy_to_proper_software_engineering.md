@@ -113,7 +113,7 @@ This isn't to say Helm charts are bad. They solve a real packaging and distribut
 
 But when someone proposes replacing a controller, one that has already gone through that maturation, with a Helm chart in the name of "industry standards," they're not making an engineering argument. They're regressing a formal abstraction back into an informal one because the informal one is more familiar to them. They're not just collapsing an interface. They're undoing the engineering judgement that went into graduating it. The "standard" label is doing the work that engineering analysis should be doing.
 
-This connects directly to the [industry standards piece](/posts/the_path_less_principled_industry_standards_combined): "industry standard" borrows legitimacy it often hasn't earned. A Helm chart is popular. A controller is principled. These are not the same axis of evaluation, and conflating them is how organizations end up with worse interfaces, blurred responsibilities, and systems that are harder to operate, all in the name of standardisation.
+This connects directly to the [industry standards piece](/posts/the_path_less_principled_industry_standards_combined): "industry standard" borrows legitimacy it often hasn't earned. A Helm chart is popular. A controller is principled. These are not the same axis of evaluation, and conflating them is how organizations end up with worse interfaces, blurred responsibilities, and systems that are harder to operate, all in the name of standardization.
 
 Well-designed abstractions are an act of engineering. They require understanding the problem domain, identifying the actors, and drawing boundaries that serve each actor's needs. Dismissing them because they're "custom" is dismissing the engineering itself.
 
@@ -170,4 +170,4 @@ If you find yourself reflexively reaching for the off-the-shelf option every sin
 
 The path less principled treats "build" as a dirty word, wraps coercion in the language of collaboration, and mistakes familiarity for rigour.
 
-The principled path asks the harder question: what does this problem actually need and call for?
+The principled path asks the harder question: what does this problem actually need?
