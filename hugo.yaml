@@ -2,7 +2,7 @@
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 baseURL: "https://principaled.dev/"
 title: "a principled(?) principal architect @ principal[ed].dev"
-copyright: "Views are my own."
+copyright: "Views are my own"
 theme: [PaperMod]
 
 enableInlineShortcodes: true
