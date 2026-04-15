@@ -85,6 +85,8 @@ And here's the final insult: the engineers who lost the fight are now stuck buil
 
 The people who did the coercing? They pat themselves on the back and walk away. They never interact with the system again. They never operate it. They never feel the consequences of the decision they forced. They got their way, declared victory, and moved on, crafting a narrative that their expertise saved the company yet again, while the real engineers are left to live with the wreckage.
 
+And when the struggle becomes visible? The off-the-shelf solution is never at fault. It's your execution. You architected your solution wrong. You didn't configure it right. You didn't adopt it fully enough. The answer is always to buy deeper into the off-the-shelf solution and leverage more of its features. The logic is unfalsifiable: when it works, it validates the approach. When it fails, it is only considered evidence that you weren't bought in enough. The prescription is always more of the same medicine, and the patient is always blamed for not responding.
+
 # The Business Value You're Not Shipping
 
 Here's the part that should concern leadership: if everything you deliver is off-the-shelf commodity software glued together, what exactly is your competitive advantage?
