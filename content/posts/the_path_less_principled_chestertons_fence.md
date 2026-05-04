@@ -12,7 +12,7 @@ TocOpen: true
 
 # Introduction
 
-Organizational change is inevitable. Departments merge, reporting lines shift, and new leaders step in. Sometimes that means a set of established, senior directors taking over a department that previously served as their customer. They bring credibility, a track record, and experience. They also bring a mandate for change.
+Organizational change is inevitable. Departments merge, reporting lines shift, and new leaders step in. Sometimes that means experienced leadership inheriting a team that once sat on the other side of the table: a former partner, vendor, or internal customer. They bring credibility, a track record, and experience. They also bring a mandate for change.
 
 That mandate can be a powerful thing. Fresh eyes see problems that familiarity has made invisible. But there's a failure mode that shows up with remarkable consistency: the new leadership starts dismantling before understanding why things were built the way they were.
 
